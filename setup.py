@@ -119,7 +119,7 @@ setup(
         ],
     },
     install_requires=[
-        'Django==1.5.5',
+        'Django==4.2.30',
         'markdown2',
         'argparse',
         'keyring',
